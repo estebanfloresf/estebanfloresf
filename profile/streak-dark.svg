@@ -8,11 +8,11 @@
   </style>
   <rect x="0.5" y="0.5" rx="6" width="494" height="164" fill="#0d1117" stroke="#30363d"/>
   <text x="25" y="32" class="title">Contribution streak</text>
-  <text x="82" y="89" text-anchor="middle" style="font-size:22px;font-weight:700;fill:#e6edf3">4</text>
+  <text x="82" y="89" text-anchor="middle" style="font-size:22px;font-weight:700;fill:#e6edf3">5</text>
   <text x="82" y="136" text-anchor="middle" class="label" style="fill:#e6edf3;font-weight:600">Contributions</text>
   <text x="82" y="151" text-anchor="middle" class="label" style="font-size:11px">past year</text>
   <circle cx="247" cy="84" r="31" fill="none" stroke="#22d3ee" stroke-width="4"/>
-  <text x="247" y="91" text-anchor="middle" style="font-size:24px;font-weight:700;fill:#22d3ee">0</text>
+  <text x="247" y="91" text-anchor="middle" style="font-size:24px;font-weight:700;fill:#22d3ee">1</text>
   <text x="247" y="136" text-anchor="middle" class="label" style="fill:#e6edf3;font-weight:600">Current streak</text>
   <text x="247" y="151" text-anchor="middle" class="label" style="font-size:11px">days</text>
   <text x="412" y="89" text-anchor="middle" style="font-size:22px;font-weight:700;fill:#e6edf3">1</text>

@@ -13,7 +13,7 @@
   <text x="25" y="98" class="label">Commits (past year)</text>
   <text x="230" y="98" class="value" text-anchor="end">2</text>
   <text x="25" y="128" class="label">Pull requests (public)</text>
-  <text x="230" y="128" class="value" text-anchor="end">2</text>
+  <text x="230" y="128" class="value" text-anchor="end">3</text>
   <text x="260" y="68" class="label">Issues (public)</text>
   <text x="465" y="68" class="value" text-anchor="end">0</text>
   <text x="260" y="98" class="label">Public repositories</text>
