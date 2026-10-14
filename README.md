@@ -2,12 +2,13 @@
 
 # Hi, I'm Esteban Flores 👋
 
-**Systems & Computing Engineer**
+**Senior Frontend Engineer · eCommerce & CMS specialist**
 
-Building web experiences with React, TypeScript, and Python — focused on frontend engineering, data analytics, and visualization.
+Building fast, accessible commerce and CMS front ends with React, Angular, and TypeScript.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/esteban-flores)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estebanfloresf)
+[![Website](https://img.shields.io/badge/estebanfloresf.com-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.estebanfloresf.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-flores/)
+[![CV](https://img.shields.io/badge/Download_CV-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.estebanfloresf.com/Esteban_Flores_CV.pdf)
 
 </div>
 
@@ -15,9 +16,15 @@ Building web experiences with React, TypeScript, and Python — focused on front
 
 ## About me
 
-I'm a Systems & Computing Engineer with experience across the JavaScript ecosystem and Python. I enjoy shipping polished UIs, exploring data, and turning insights into clear visual stories.
+I'm a senior frontend engineer with 10+ years across frontend engineering, QA, and business analysis, based in Quito, Ecuador. I lead enterprise B2B commerce builds on Optimizely using React, Angular, and TypeScript.
 
-I'm always learning new techniques and tools — feel free to reach out if you'd like to connect or collaborate.
+I started in QA and business analysis, which is why I care about edge cases, accessibility, performance, and code other developers enjoy working with. I work directly with clients to turn business needs into implementation plans, and I mentor developers through code reviews and architecture discussions.
+
+**Currently**
+
+- 🛒 Leading frontend for enterprise B2B commerce implementations
+- 🧩 Designing reusable component libraries and scalable frontend architectures
+- 🤖 Integrating AI-assisted development workflows to speed up delivery and documentation
 
 ---
 
@@ -36,9 +43,17 @@ I'm always learning new techniques and tools — feel free to reach out if you'd
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Commerce, CMS & platforms**
+
+![Optimizely](https://img.shields.io/badge/Optimizely-0037FF?style=flat-square)
+![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=flat-square&logo=bigcommerce&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Backend & data**
 
@@ -50,18 +65,14 @@ I'm always learning new techniques and tools — feel free to reach out if you'd
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
 
-**Tools & platforms**
+**Quality & tooling**
 
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 ---
 
@@ -87,8 +98,7 @@ I'm always learning new techniques and tools — feel free to reach out if you'd
 
 <div align="center">
 
-### ✍️ Dev quote
-
-![Dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Most of my work is for clients on private systems, so this profile only shows a slice of it.
+See the full picture at **[estebanfloresf.com](https://www.estebanfloresf.com)**.
 
 </div>
