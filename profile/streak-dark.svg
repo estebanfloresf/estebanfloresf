@@ -8,7 +8,7 @@
   </style>
   <rect x="0.5" y="0.5" rx="6" width="494" height="164" fill="#0d1117" stroke="#30363d"/>
   <text x="25" y="32" class="title">Contribution streak</text>
-  <text x="82" y="89" text-anchor="middle" style="font-size:22px;font-weight:700;fill:#e6edf3">5</text>
+  <text x="82" y="89" text-anchor="middle" style="font-size:22px;font-weight:700;fill:#e6edf3">9</text>
   <text x="82" y="136" text-anchor="middle" class="label" style="fill:#e6edf3;font-weight:600">Contributions</text>
   <text x="82" y="151" text-anchor="middle" class="label" style="font-size:11px">past year</text>
   <circle cx="247" cy="84" r="31" fill="none" stroke="#22d3ee" stroke-width="4"/>
